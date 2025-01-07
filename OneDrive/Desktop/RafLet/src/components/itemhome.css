@@ -1,0 +1,35 @@
+
+
+
+.item-home{
+    display: block;
+    position: relative;
+}
+
+.item-home button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: transparent;
+    border: none;
+}
+
+.item-home button img{
+    width: 20px;
+    z-index: 0;
+    position: relative;
+    top: 1px;
+    padding: 10px;
+} 
+
+.item-home div{
+    padding: 10px;
+}
+
+.item-home h5{
+    font-family:Montserrat, Arial, sans-serif;
+}
+
+.image, .item-link{
+    width: 100%;
+}
